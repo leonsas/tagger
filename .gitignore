@@ -1,0 +1,5 @@
+*.pyc
+conf.py
+lib/
+!lib/README.md
+.DS_Store

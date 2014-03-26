@@ -1,0 +1,4 @@
+cron:
+- description: daily tagging job
+  url: /tag_now
+  schedule: every 30 minutes
